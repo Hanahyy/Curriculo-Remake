@@ -1,0 +1,61 @@
+h1{color:#aebeef;font-size:55px;font-family:  Brush Script MT;text-align:center;}
+h3{color:#aebeef;font-size:35px;font-family:  Brush Script MT; margin-left:5%;}
+
+h4{color: #ff9c9c;font-size:30px;font-family:  Brush Script MT;}
+p{color:#343d46;font-size:15px; font-family: 'Nunito', sans-serif;}
+li{color:#343d46;font-size:15px;font-family: 'Nunito', sans-serif;}
+
+
+header{
+margin-top:-35px;
+background-image: url("../image/rosinha.jpg");
+height: 250px;
+}
+
+main{
+	margin-left:5%;
+	
+}
+
+body{ 
+    margin: 0px;
+}
+
+
+.eu{
+	margin-top:0px;
+	float:right;
+	border-radius:125px;
+
+}
+
+
+
+.aranha{
+	float:right;
+	margin-top:-9%;
+}
+
+.conjunto{
+	float:right;
+	margin-top:-5%;
+}
+
+
+.mano{
+	float:right;
+	margin-top:-9%;
+}
+
+.papai{
+	float:right;
+	margin-top:-7%;
+}
+
+.coisas{
+	float:right;
+	margin-top:-7%;
+}
+.hr{
+width:100%;
+}
